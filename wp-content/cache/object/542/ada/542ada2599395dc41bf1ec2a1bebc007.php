@@ -1,0 +1,13 @@
+ÿ‚µc<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:21;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2022-11-24 10:06:28";s:13:"post_date_gmt";s:19:"2022-11-24 10:06:28";s:12:"post_content";s:1879:"<h2>Donâ€™t be Shy Letâ€™s Talk About Your Project</h2>		
+			<h2>Donâ€™t be<br>Shy Letâ€™s<br>Talk About<br>Your Project</h2>		
+		We Would Be Happy To Meet You And Learn All About Your Business		
+			<h2>Our Offices</h2>		
+		New location coming up in Singapore and Pune, India.		
+			<h2>Mail Or Call Us</h2>		
+		<p><a style="color: #000;" href="mailto:sales@sdlccorp.com">sales@sdlccorp.com</a><br /><a style="color: #000;" href="tel:+1 (618) 615 4906">+1 (618) 615 4906</a></p>		
+															<img width="500" height="333" src="https://sdlccorp.com/wp-content/uploads/2022/11/63379e90e851f07c84d276c3_travel-4813658_1280-p-500.webp" alt="india-gate" loading="lazy" srcset="https://sdlccorp.com/wp-content/uploads/2022/11/63379e90e851f07c84d276c3_travel-4813658_1280-p-500.webp 500w, https://sdlccorp.com/wp-content/uploads/2022/11/63379e90e851f07c84d276c3_travel-4813658_1280-p-500-300x200.webp 300w" sizes="(max-width: 500px) 100vw, 500px" />															
+			<h2>A25 Sector 83, Industrial Phase II, Noida 201301, Delhi NCR, INDIA</h2>		
+															<img width="500" height="365" src="https://sdlccorp.com/wp-content/uploads/2022/11/63379f2b426dd4d4fa1c67e6_Golden-Gate-Bridge-San-Francisco-p-500.webp" alt="" loading="lazy" srcset="https://sdlccorp.com/wp-content/uploads/2022/11/63379f2b426dd4d4fa1c67e6_Golden-Gate-Bridge-San-Francisco-p-500.webp 500w, https://sdlccorp.com/wp-content/uploads/2022/11/63379f2b426dd4d4fa1c67e6_Golden-Gate-Bridge-San-Francisco-p-500-300x219.webp 300w" sizes="(max-width: 500px) 100vw, 500px" />															
+			<h2>698 Post St, San Francisco, CA 94109, United States</h2>		
+															<img width="500" height="500" src="https://sdlccorp.com/wp-content/uploads/2022/12/City-Building.jpeg" alt="" loading="lazy" />															
+			<h2>201B, North Tower, Dubai International Financial Centre (DIFC) PO Box 506600 â€“ Dubai, UAE</h2>";s:10:"post_title";s:10:"Contact Us";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:10:"contact-us";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2022-12-19 14:21:00";s:17:"post_modified_gmt";s:19:"2022-12-19 08:51:00";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:32:"http://143.110.180.3/?page_id=21";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,47 @@
+<b>5.8.4  SINGLE DOMAIN SSL 0 - http://sdlccorp.com</b>
+Domain covered:
+["sdlccorp.com","www.sdlccorp.com"]
+
+[16-12-2022 14:40:50] :
+LEClient finished constructing
+
+[16-12-2022 14:40:50] :
+No order found for 'sdlccorp.com'. Creating new order.
+
+[16-12-2022 14:40:53] :
+Created order for 'sdlccorp.com'.
+
+HTTP Challenges --&gt; [{"file":"UTaci0NzVZr_LTg0Z7eDX_S2nXGC_fJisZQeFtp73bk","value":"UTaci0NzVZr_LTg0Z7eDX_S2nXGC_fJisZQeFtp73bk.3BW3EofkAaF7_r7FavclGB5ZW-10wjQb87dzKFxIP2c"}]
+DNS Challenges --&gt; ["www.sdlccorp.com||fVy99lipb_v4E8FK-zV-olttNLj2PqbJdq185ORTx8c"]
+Offering manual verification procedure. 
+
+
+https://dns.google.com/resolve?name=_acme-challenge.www.sdlccorp.com&amp;type=TXT should return fVy99lipb_v4E8FK-zV-olttNLj2PqbJdq185ORTx8c -&gt; Pending
+
+
+https://dns.google.com/resolve?name=_acme-challenge.www.sdlccorp.com&amp;type=TXT should return fVy99lipb_v4E8FK-zV-olttNLj2PqbJdq185ORTx8c -&gt; Pending
+
+
+https://dns.google.com/resolve?name=_acme-challenge.www.sdlccorp.com&amp;type=TXT should return fVy99lipb_v4E8FK-zV-olttNLj2PqbJdq185ORTx8c -&gt; Pending
+
+
+https://dns.google.com/resolve?name=_acme-challenge.www.sdlccorp.com&amp;type=TXT should return fVy99lipb_v4E8FK-zV-olttNLj2PqbJdq185ORTx8c -&gt; OK
+
+Local check - All DNS challenges verified
+
+[16-12-2022 16:23:52] :
+LEClient finished constructing
+
+[16-12-2022 16:23:53] :
+Order object is {"status":"pending","expires":"2022-12-23T14:40:51Z","identifiers":[{"type":"dns","value":"sdlccorp.com"},{"type":"dns","value":"www.sdlccorp.com"}],"authorizations":["https:\/\/acme-v02.api.letsencrypt.org\/acme\/authz-v3\/187418933777","https:\/\/acme-v02.api.letsencrypt.org\/acme\/authz-v3\/187490445717"],"finalize":"https:\/\/acme-v02.api.letsencrypt.org\/acme\/finalize\/873958527\/153085724577"}
+
+Forced DNS verification
+Finalizing the order
+[16-12-2022 16:24:13] :
+Order for 'sdlccorp.com' finalized.
+
+Getting SSL certificates
+[16-12-2022 16:24:13] :
+Certificate for 'sdlccorp.com' saved
+
+<h2>SSL Certificate generated successfully!</h2>
